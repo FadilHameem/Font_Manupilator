@@ -1,0 +1,43 @@
+body{
+    background-image: url('h.jpg');
+    font-family: 'Mea Culpa', cursive;
+}
+
+h2{
+    font-family: 'Sassy Frass', cursive;
+    font-size: 75px;
+    color:darkred;
+    font-weight: bold;
+    
+}
+h2:hover{
+    color: green;
+}
+.howtouse{
+    color: brown;
+    font-size: 45px;
+    font-weight: bold;
+    color: darkgreen;
+}
+.howtouse:hover{
+    color:darkblue;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    color:white;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+ canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    font-family: 'Dancing Script', cursive;
+    
+ }
+video{
+    margin-left: 15px;
+    border-radius: 20px;
+}
